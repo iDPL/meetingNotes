@@ -7,11 +7,11 @@ For Rocks deployment:  central server is http://central-x86-64.calit2.optiputer.
 
 Different approaches to using Condor 
 * US/Wisc are using the Condor Parallel Universe.  Example code uses netcat (nc) to set up a server and a client
-* * regular testing via cron.  Working with Condor team to run under Condor's internal Cron
-* * code is posted on github:  http://github.com/idpl/swtools
+** regular testing via cron.  Working with Condor team to run under Condor's internal Cron
+** code is posted on github:  http://github.com/idpl/swtools
 * Beihang using DAGMAN + Vanilla universe.  Also run a network performance test
-* * have a web portal that they would like to test
-* * Currently have ftp and wget as testing runs
+** have a web portal that they would like to test
+** Currently have ftp and wget as testing runs
 
 International Pool
 *  Simple at first, Single pool, at least one system per site. Condor Master in Wisconsin (komatsu.chtc.wisc.edu)
