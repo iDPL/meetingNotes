@@ -13,6 +13,8 @@ verified that the datamovementpoolpassword file was correct on both machines.
 
 * Hailong and Luo Ze will investigate the networking at Beihang/CERNET to understand where the translation is occuring
 * Condor team will downgrade komatsu from devel version 8.3.1 to production version 8.2.2 (which is running on the rest of iDPL
+* 
+Followup: From Hailong. "I justconfirmed with the staff from university network center. They do map our IP address into several external IP addresses dynamically when we are going outside. They will give us the range of the external IP addresses as soon as possible, so that you can add them to your firewall access control."
 
 Next phone call: Sept 23 @ 7:00pm (San Diego), Sept 24 @ 10am (Beijing)
 
