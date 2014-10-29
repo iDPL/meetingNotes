@@ -8,7 +8,10 @@ Ideas for the meeting
   3. Scheduling of experiments (part of the Beihang/CNIC proposal)
   
 Practical issues -- PerfSONAR now uses the esmond data archive system, we should look at it?
-Already using APIs from perfSONAR at Beihang. (hacking the code). 
+Already using APIs from perfSONAR at Beihang. (hacking the code because of lack of documentation). 
+
+Student at Beihang to look at esmond. (http://software.es.net/esmond/)
+
 
   
 
