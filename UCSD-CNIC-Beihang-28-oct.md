@@ -12,6 +12,11 @@ Already using APIs from perfSONAR at Beihang. (hacking the code because of lack 
 
 Student at Beihang to look at esmond. (http://software.es.net/esmond/)
 
+Condor-Specific Issues:
+1.  how we set the security so that we can submit jobs from any node in iDPL.
+2.  How to track failures.
+3.  How to set up the number slots to be reflective of the real machines.
+4.  
 
   
 
