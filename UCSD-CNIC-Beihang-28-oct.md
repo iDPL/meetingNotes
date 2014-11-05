@@ -30,6 +30,10 @@ Possible Parameters to consider
   * Destination file system
   * IPv4 or IPv6
   * Success/Failure
+
+Other items for meeting in Wisconsin
+  * convert BUAA cron job to a crondor job
+  * prototype portal nearly ready
   * 
 
   
