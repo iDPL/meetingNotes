@@ -13,10 +13,24 @@ Already using APIs from perfSONAR at Beihang. (hacking the code because of lack 
 Student at Beihang to look at esmond. (http://software.es.net/esmond/)
 
 Condor-Specific Issues:
-1.  how we set the security so that we can submit jobs from any node in iDPL.
-2.  How to track failures.
-3.  How to set up the number slots to be reflective of the real machines.
-4.  
+  1.  how we set the security so that we can submit jobs from any node in iDPL.
+  2.  How to track failures.
+  3.  How to set up the number slots to be reflective of the real machines.
+  4.  Crondor seems to be working, how should we expand the capabilities
+  5.  
+  
+Possible Parameters to consider
+  * Number of files
+  * Average file size
+  * Min/Max file size
+  * Total time for transfer
+  * Min/Max/Average transfer time
+  * Placement protocol used
+  * Source file system
+  * Destination file system
+  * IPv4 or IPv6
+  * Success/Failure
+  * 
 
   
 
