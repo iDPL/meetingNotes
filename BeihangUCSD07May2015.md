@@ -12,3 +12,4 @@ Meeting notes 07 May 2015
        
        
 * Next Meeting- 19th May (California) 20 May - Beijing.
+* Next meeting delayed 5/26
